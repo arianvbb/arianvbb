@@ -7,8 +7,8 @@ Since I was young I've always been interested in building, the projects and mean
 My main tech stack is Python and currently learning C++.
 
 Projects i'm working on:
-Control panel with facial recognition through OpenCV for access and a Raspberry Pi for core functionality like controlling temperature, measuring import qualities in the air and recommending courses of action, etc.
-PID-Controller for a virtual water tank.
+- Control panel with facial recognition through OpenCV for access and a Raspberry Pi for core functionality like controlling temperature, measuring import qualities in the air and recommending courses of action, etc.
+- PID-Controller for a virtual water tank.
 
 Reach me at my LinkedIn!
 
