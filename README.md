@@ -1,17 +1,20 @@
-## Hi there 👋
+## **Hi there 👋**
 
 My name is Arian and i'm a soon to be engineering student with an interest in mechanical engineering and robotics.
 
 Since I was young I've always been interested in building, the projects and means to finish them have just gotten more advanced.
 
+
 My main tech stack is Python and currently learning C++.
+
 
 Projects i'm working on:
 - A digital self-driving program with ACC and NPC cars with visualization.
 - Adding MPC logic to my temperature control.
 - Control panel with facial recognition through OpenCV for access and a Raspberry Pi for core functionality like controlling temperature, measuring import qualities in the air and recommending courses of action, etc.
 
-Reach me at my LinkedIn!
+
+**Reach me at my LinkedIn!**
 
 
 
