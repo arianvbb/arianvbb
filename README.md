@@ -12,9 +12,7 @@ My main tech stack is Python and currently learning C++.
 
 Projects i'm working on:
 - A digital self-driving program with ACC and NPC cars with visualization.
-- Adding MPC logic to my temperature control.
-- Control panel with facial recognition through OpenCV for access and a Raspberry Pi for core functionality like controlling temperature, measuring import qualities in the air and recommending courses of action, etc.
-
+- Adding MPC logic to my temperature control as well as a GUI.
 
   
 **Reach me at my LinkedIn!**
