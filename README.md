@@ -6,7 +6,7 @@ Since I was young I've always been interested in building, the projects and mean
 
 
 
-My main tech stack C++ with a basic understanding of Python.
+My main tech stack C++ with a fair understanding of Python.
 
 
 
