@@ -11,8 +11,9 @@ My main tech stack C++ with a basic understanding of Python.
 
 
 Projects i'm working on:
-- A digital self-driving program with ACC and NPC cars with visualization.
-- Adding MPC logic to my temperature control as well as a GUI.
+- (C++) An expression parser
+- (C++) A monte carlo simulation for different strategies in HiLo (card game)
+- (C++) A timer application with UI
 
   
 **Reach me at my LinkedIn!**
