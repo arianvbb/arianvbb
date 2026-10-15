@@ -11,9 +11,8 @@ My main tech stack C++ with a fair understanding of Python.
 
 
 Projects i'm working on:
-- (C++) An expression parser
-- (C++) A monte carlo simulation for different strategies in HiLo (card game)
-- (C++) A timer application with UI
+- C++ : Algorithm to detect cone color from a LIDAR point cloud.
+- C++ : A system that will accumulate point cloud entries over time to ensure better robustness in the detection system.
 
   
 **Reach me at my LinkedIn!**
